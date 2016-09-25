@@ -31,7 +31,7 @@ Measuring distance: Elton John is a famous singer; let’s compute the distance 
 
 Paul McCartney
 
-### Question 3
+## Question 3
 
 Building nearest neighbors models with different input features and setting the distance metric: In the sample notebook, we built a nearest neighbors model for retrieving articles using TF-IDF as features and using the default setting in the construction of the nearest neighbors model. Now, you will build two nearest neighbors models:
 
@@ -52,11 +52,11 @@ Now we are ready to use our model to retrieve documents. Use these two models to
 
 Cliff Richard
 
-** What’s the most similar article, other than itself, to the one on ‘Elton John’ using TF-IDF features?**
+**What’s the most similar article, other than itself, to the one on ‘Elton John’ using TF-IDF features?**
 
 Rod Stewart
 
-** What’s the most similar article, other than itself, to the one on ‘Victoria Beckham’ using word count features?**
+**What’s the most similar article, other than itself, to the one on ‘Victoria Beckham’ using word count features?**
 
 Mary Fitzgerald
 
