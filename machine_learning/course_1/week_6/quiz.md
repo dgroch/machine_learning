@@ -1,7 +1,7 @@
 # Answers to the Quiz
 
 1. C
-2. (don't don't)
+2. A, B, C
 3. D
 4. A, C
 5. A
