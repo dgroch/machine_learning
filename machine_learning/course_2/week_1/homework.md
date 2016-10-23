@@ -16,8 +16,7 @@ Using the learned slope and intercept from the squarefeet model, what is the RSS
 
 According to the inverse regression function and the regression slope and intercept from predicting prices from square-feet, what is the estimated square-feet for a house costing $800,000?
 
-`10773` (incorrect)
-`2356` (incorrect)
+`3004`
 
 ### Question 4
 
