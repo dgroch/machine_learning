@@ -30,17 +30,8 @@ If the step-size is too large gradient descent may not converge AND If the step 
 
 *Q8: Let's analyze how many computations are required to fit a multiple linear regression model using the closed-form solution based on a data set with 50 observations and 10 features. In the videos, we said that computing the inverse of the 10x10 matrix HTH was on the order of D3 operations. Let's focus on forming this matrix prior to inversion. How many multiplications are required to form the matrix HTH?*
 
-features by features
-10 x 10 = 100 (incorrect)
-
-observations by features
-50 x 10 = 500 (incorrect)
-
-(observations x features) x (features x observations)
-(50 x 10) x (10 x 50) = 250,000 (incorrect)
+N x D^2 = 5,000
 
 *Q9: More generally, if you have D features and N observations what is the total complexity of computing (HTH)−1?*
 
-O(D^3) (incorrect)
-O(N x D^3) (incorrect)
-O(N^2 x D) (incorrect)
+O(ND^2 + D^3)
