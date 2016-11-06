@@ -46,27 +46,9 @@ Minimising validation error
 
 12. Selecting model complexity on test data (choose all that apply):
 
-Allows you to avoid issues of overfitting to training data
 Provides an overly optimistic assessment of performance of the resulting model
-(incorrect)
+Should never be done
 
-Allows you to avoid issues of overfitting to training data
-Provides an overly optimistic assessment of performance of the resulting model
-Is computationally inefficient
-(incorrect)
-
-Allows you to avoid issues of overfitting to training data
-Is computationally inefficient
-(incorrect)
-
-Allows you to avoid issues of overfitting to training data
-(incorrect)
-
-Provides an overly optimistic assessment of performance of the resulting model
-(incorrect)
-
-Is computationally inefficient
-(incorrect)
 
 13. Which of the following statements is true (select all that apply): For a fixed model complexity, in the limit of an infinite amount of training data,
 
@@ -90,3 +72,9 @@ Generalizaton error goes to 0
 
 Training error goes to 0
 (incorrect)
+
+- nothing selected -
+(incorrect)
+
+Variances goes to 0
+Generalization error goes to 0
