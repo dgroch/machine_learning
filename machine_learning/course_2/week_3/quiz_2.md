@@ -10,9 +10,7 @@ False
 
 3. 
 
-order 8 (incorrect)
-order 2 (incorrect)
-order 5 (incorrect)
+6
 
 4. 
 

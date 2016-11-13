@@ -42,31 +42,18 @@ Overfitted
 
 11. A common process for selecting a parameter like the optimal polynomial degree is:
 
-Minimizing test error (incorrect)
-Model estimation (incorrect)
-Bootstrapping (incorrect)
+Minimising validation error
 
 12. Selecting model complexity on test data (choose all that apply):
 
-Allows you to avoid issues of overfitting to training data
 Provides an overly optimistic assessment of performance of the resulting model
-(incorrect)
+Should never be done
 
-Allows you to avoid issues of overfitting to training data
-Provides an overly optimistic assessment of performance of the resulting model
-Is computationally inefficient
-(incorrect)
-
-Allows you to avoid issues of overfitting to training data
-Is computationally inefficient
-(incorrect)
 
 13. Which of the following statements is true (select all that apply): For a fixed model complexity, in the limit of an infinite amount of training data,
 
 Training error goes to 0
-AND
 Bias goes to 0
-AND
 Variance goes to 0
 (incorrect)
 
@@ -75,3 +62,19 @@ Variances goes to 0
 Training error goes to 0
 Generalizaton error goes to 0
 (incorrect)
+
+Generalizaton error goes to 0
+(incorrect)
+
+Training error goes to 0
+Generalizaton error goes to 0
+(incorrect)
+
+Training error goes to 0
+(incorrect)
+
+- nothing selected -
+(incorrect)
+
+Variances goes to 0
+Generalization error goes to 0
