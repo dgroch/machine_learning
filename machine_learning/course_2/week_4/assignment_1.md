@@ -21,14 +21,8 @@
 
 6. What is the best value for the L2 penalty according to 10-fold validation?
 
-**100**
-**10^2.5 = 316.227766017**
-*10^3.5 = 3162.277660168*
-(incorrect)
+**1,000**
 
 7. Using the best L2 penalty found above, train a model using all training data. Which of the following ranges contains the RSS on the TEST data of the model you learn with this L2 penalty?
 
-**Between 1e15 and 3e15**
-**Between 4e14 and 6e14**
-**Between 6e14 and 8e14**
-(incorrect)
+**Between 8e13 and 4e14**
